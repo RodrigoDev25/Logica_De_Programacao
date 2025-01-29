@@ -67,17 +67,5 @@ programa {
     mensagem = "Aula de lógica de programação."
     escreva(mensagem)
 
-
- 
-
-
-
-
-
-
-
-
-
-    
   }
 }
